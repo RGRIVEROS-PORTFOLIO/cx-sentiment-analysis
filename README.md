@@ -91,4 +91,15 @@ concesionarias automotrices (Ford).
 
 - [ ] Sistema de alertas automáticas con exportación a Excel
 - [ ] Cola de atención priorizada por score + valor de cliente  
-- [ ] Topic modeling sobre reseñas negativas por categoría de producto
+
+---
+
+## Ver los notebooks
+
+| Notebook | nbviewer |
+|---|---|
+| Análisis de sentimientos | [Ver](https://nbviewer.org/github/RGRIVEROS-PORTFOLIO/cx-sentiment-analysis/blob/main/notebooks/Woman_s_EcommerceClothingReviews.ipynb) |
+| Sistema de alertas | [Ver](https://nbviewer.org/github/RGRIVEROS-PORTFOLIO/cx-sentiment-analysis/blob/main/notebooks/alert_system_cx.ipynb) |
+| Cola priorizada | [Ver](https://nbviewer.org/github/RGRIVEROS-PORTFOLIO/cx-sentiment-analysis/blob/main/notebooks/priority_queue_cx.ipynb) |
+
+---
